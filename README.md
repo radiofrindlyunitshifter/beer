@@ -1,4 +1,4 @@
-A Database file is needed with those tables:
+A Database file is needed with those tables and the name "beerStatistic.db":
 Create table beers(
                  brand text,
                  year int,
